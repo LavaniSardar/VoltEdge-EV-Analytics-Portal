@@ -7,7 +7,7 @@ Note to Mentor: Please use the links below to evaluate the end-to-end functional
 
 📊 Interactive Tableau Dashboard: https://public.tableau.com/views/EVAnalysticsDashboard/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-💻 Live Web Portal: file:///C:/Users/user/AppData/Local/Temp/%7B80568117-64F2-44ED-9870-A827D39B02D2%7D/%7BAD2E62F2-C3CB-459F-BBEA-3D9DA7EB7A84%7D/index.html
+💻 Live Web Portal: file:///C:/Users/user/Desktop/03_Backend_Code/Templates/index.html
 
 📖 Executive Summary
 VoltEdge is a comprehensive analytics platform developed by Team EV-ANALYTICS-01. The project addresses the data fragmentation in the Indian EV sector by providing a "Single Source of Truth" for city planners and consumers. By integrating a PostgreSQL backend with Tableau business intelligence and a Python Flask web interface, we enable data-driven decisions on charging infrastructure and vehicle efficiency.
