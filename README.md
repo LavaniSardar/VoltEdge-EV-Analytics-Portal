@@ -12,7 +12,7 @@ Click on the link below to evaluate the end-to-end functionality of the 3-tier s
 💻 Live Web Portal: file:///C:/Users/user/Desktop/03_Backend_Code/Templates/index.html
 
 📖 Executive Summary
-VoltEdge is a comprehensive analytics platform developed by Team EV-ANALYTICS-01. The project addresses the data fragmentation in the Indian EV sector by providing a "Single Source of Truth" for city planners and consumers. By integrating a PostgreSQL backend with Tableau business intelligence and a Python Flask web interface, we enable data-driven decisions on charging infrastructure and vehicle efficiency.
+VoltEdge is a comprehensive analytics platform developed by Team. The project addresses the data fragmentation in the Indian EV sector by providing a "Single Source of Truth" for city planners and consumers. By integrating a PostgreSQL backend with Tableau business intelligence and a Python Flask web interface, we enable data-driven decisions on charging infrastructure and vehicle efficiency.
 
 🛠️ The Technical Stack (3-Tier Architecture)
 VoltEdge is built on a robust, scalable architecture:
@@ -32,7 +32,8 @@ VoltEdge-EV-Portal/
 ├── 04_Visuals/                 # High-res Dashboard screenshots and Assets
 └── README.md                   # Project Overview & Links
 
-👥 Meet the Team (EV-ANALYTICS-01)
+👥 Meet the Team
+
 Lavani Sardar – Database Management & Lead Presenter
 
 Sanskruti Roman – Project Lead & UI/UX Design
