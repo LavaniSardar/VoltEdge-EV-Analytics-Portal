@@ -1,7 +1,9 @@
-⚡ VoltEdge: EV Analytics Portal
-Empowering the 2026 Indian Electric Vehicle Transition
+                                                                                        ⚡ VoltEdge: 
+                                                                                     EV Analytics Portal
+
+                                                                   Empowering the 2026 Indian Electric Vehicle Transition
 🔗 Project Evaluation Links
-Note to Mentor: Please use the links below to evaluate the end-to-end functionality of the 3-tier system.
+Click on the link below to evaluate the end-to-end functionality of the 3-tier system.
 
 🎥 Project Demo Video: https://1drv.ms/v/c/7d5836dcfe15e6d6/IQCZIC1cEiHiR4vdvVRUSz7ZAdpG4lCUQQRS1ooDxBNzqCw?e=v2mdNd
 
